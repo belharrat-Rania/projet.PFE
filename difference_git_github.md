@@ -32,12 +32,3 @@ GitHub est une **plateforme en ligne** qui héberge les projets utilisant Git et
 - **GitHub** : est une plateforme en ligne pour héberger et partager les projets Git.
 
 ---
-
-## 4. Exemple pratique
-
-Imaginons que tu travailles sur un projet :
-
-- **Git** : enregistre les modifications et conserve l'historique de ton travail.
-- **GitHub** : permet de publier ton projet en ligne et de le partager avec d'autres personnes.
-
----
